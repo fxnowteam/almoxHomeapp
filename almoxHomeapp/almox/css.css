@@ -1,0 +1,35 @@
+fieldset {
+    width: 700px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+#formedestoque input {
+    width: 50px;
+    padding: 5px;
+    margin: 3px;
+    font-family: Arial, Verdana;
+    font-size: 13px;
+    border: solid 1px #ccc;
+    text-align: center;
+}
+#formedestoque #submit{
+    width: auto;
+}
+#formsaida fieldset {
+    width: 520px;
+    text-align: center;
+}
+#destino {
+    width: 250px;
+}
+#dataini, #datafim {
+    width: 100px;
+}
+#lote {
+    width: 100px;
+}
+#relfiltros li {
+    float: left;
+    width: 25%;
+    list-style: none;
+}
